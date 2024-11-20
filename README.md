@@ -34,4 +34,4 @@ Please consider to cite our preprint if CARLA-Loc is helpful to you work. Thanks
     primaryClass={cs.RO}
 }
 ```
-Please contact (us yuhang_han@u.nus.edu) if you want to discuss about this work.
+Please contact us at yuhang_han@u.nus.edu if you want to discuss about this work.
