@@ -1,8 +1,8 @@
 # CARLA-Loc
 
-Dataset is now available at: [Google Drive](https://drive.google.com/drive/folders/1KnKzNv6BcOjhhzZ-AtoHgN09j6znPhCn?usp=share_link)
-
-Project Page: https://yuhang1008.github.io/CARLA-Loc_page/
+- Dataset is now available at: [Google Drive](https://drive.google.com/drive/folders/1KnKzNv6BcOjhhzZ-AtoHgN09j6znPhCn?usp=share_link)
+- Project Page: https://yuhang1008.github.io/CARLA-Loc_page/
+- Arxiv: https://arxiv.org/abs/2309.08909v2
 
 ---
 
