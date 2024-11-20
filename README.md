@@ -1,10 +1,19 @@
 # CARLA-Loc
 
-Dataset is now available at: https://drive.google.com/drive/folders/1KnKzNv6BcOjhhzZ-AtoHgN09j6znPhCn?usp=share_link
+Dataset is now available at: [Google Drive](https://drive.google.com/drive/folders/1KnKzNv6BcOjhhzZ-AtoHgN09j6znPhCn?usp=share_link)
 
 Project Page: https://yuhang1008.github.io/CARLA-Loc_page/
 
-The code for converting raw dataset to rosbags has been attached in this repo. For 
+---
+
+The code for converting raw dataset to rosbags has been attached in this repo. You can to tune the following parameters to fit your need.
+`VIO_bag.py`:
+![image](https://github.com/user-attachments/assets/097eb658-ab5a-4259-be9c-80e7320d3f58)
+
+`LIO_bag.py`:
+![image](https://github.com/user-attachments/assets/c0c3e7d1-d898-465c-8812-29f6860da668)
+
+
 
 
 
